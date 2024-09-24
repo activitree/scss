@@ -1,7 +1,7 @@
-This was tested before the official release of Meteor 3. Please use leonardoventurini:scss instead.
+# This was tested before the official release of Meteor 3. Please use leonardoventurini:scss instead.
 
 
-# Sass for Meteor
+## Sass for Meteor
 This is a Sass build plugin for Meteor. It compiles Sass files with Dart Sass. With few alterations, this is the same documentation as for fourseven:scss on which it is based.
 Check your development server console for wrong syntaxes or Sass deprecation messages and correct your code accordingly.
 
